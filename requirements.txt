@@ -1,6 +1,4 @@
 streamlit
 pandas
 random
-numpy
-matplotlib
-datetime 
+from datetime import datetime
