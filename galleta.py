@@ -14,9 +14,13 @@ from datetime import datetime
 
 st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=300)
 
-# Título de la app
+# Configuración de la página
 st.set_page_config(page_title="Galletitas Financieras", page_icon="💰", layout="centered")
 
+# Encabezado con logo institucional
+st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=300)
+
+# Título principal
 st.title("🥠 Galletitas Financieras 💰")
 st.write("Cada clic revela un consejo financiero para mejorar tus hábitos de ahorro e inversión.")
 
@@ -39,14 +43,11 @@ mensajes = [
     "📈 Diversifica tus inversiones, no pongas todos los huevos en la misma canasta."
 ]
 
-# Mostrar imagen o emoji decorativo
-st.image("https://cdn-icons-png.flaticon.com/512/4359/4359963.png", width=150)
-
 # Botón para obtener una galletita
 if st.button("🍪 Romper una galletita"):
     mensaje = random.choice(mensajes)
     st.success(mensaje)
-    st.caption(f"✨ {datetime.now().strftime('%d/%m/%Y, %H:%M:%S')}")
+    st.caption(f"{datetime.now().strftime('%d/%m/%Y, %H:%M:%S')}")
 
 # Pie de página
 st.markdown("---")
