@@ -17,9 +17,6 @@ st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=3
 # Configuración de la página
 st.set_page_config(page_title="Galletitas Financieras", page_icon="💰", layout="centered")
 
-# Encabezado con logo institucional
-st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=300)
-
 # Título principal
 st.title("🥠 Galletitas Financieras 💰")
 st.write("Cada clic revela un consejo financiero para mejorar tus hábitos de ahorro e inversión.")
@@ -51,4 +48,7 @@ if st.button("🍪 Romper una galletita"):
 
 # Pie de página
 st.markdown("---")
+
+st.title("3ra. Emisión de las Jornadas Financieras en la UNRC | LCFI-UNRC")
+
 st.caption("Desarrollado por galletitasfinancieras.com 🥠 | Educación financiera con un toque de suerte 💫")
