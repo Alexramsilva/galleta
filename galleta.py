@@ -27,7 +27,7 @@ mensajes = [
     "📊 Lleva un registro mensual de tus ingresos y gastos.",
     "💰 Invierte en instrumentos que entiendas.",
     "🧾 Evita las deudas que no generen valor.",
-    "🎯 Define metas financieras claras y medibles.",
+    "🎯 Define metas financieras claras y medibles (sé realista).",
     "🏦 Aprovecha el interés compuesto: el tiempo es tu mejor aliado.",
     "💳 No gastes más de lo que ganas, aunque tengas crédito disponible.",
     "🪙 Separa un 10% de tu ingreso para emergencias.",
@@ -37,7 +37,10 @@ mensajes = [
     "🌱 Cada pequeño ahorro es una semilla para tu libertad financiera.",
     "🔍 Antes de invertir, compara rendimientos y riesgos.",
     "🕐 Sé constante: la disciplina vence al impulso.",
-    "📈 Diversifica tus inversiones, no pongas todos los huevos en la misma canasta."
+    "📈 Diversifica tus inversiones, no pongas todos los huevos en la misma canasta.",
+    "🧘‍♂️ Evita las pesadillas financieras, sé diciplinado financieramente.",
+    "📊 El ahorro tiene un propósito, visualízalo para que sea una realidad.",
+    "📊 Identifica tus gastos hormigo, conviértelos en inversión.",
 ]
 
 # Botón para obtener una galletita
@@ -49,6 +52,6 @@ if st.button("🍪 Romper una galletita"):
 # Pie de página
 st.markdown("---")
 
-st.title("3ra. Emisión de las Jornadas Financieras en la UNRC | LCFI-UNRC")
+st.title("3ra. Emisión de las Jornadas Financieras en la UNRC")
 
-st.caption("Desarrollado por galletitasfinancieras.com 🥠 | Educación financiera con un toque de suerte 💫")
+st.caption("Licenciatura en COntaduría y Finanzas | Univeridad NacionalRosario Castellanos")
