@@ -40,7 +40,13 @@ mensajes = [
     "📈 Diversifica tus inversiones, no pongas todos los huevos en la misma canasta.",
     "🧘‍♂️ Evita las pesadillas financieras, sé diciplinado financieramente.",
     "📊 El ahorro tiene un propósito, visualízalo para que sea una realidad.",
-    "📊 Identifica tus gastos hormigo, conviértelos en inversión.",
+    "📊 Identifica tus gastos hormiga, evitandolos se convitirán en inversión.",
+    "💳 El crédito puede ser un aliado, pero se puede comvertir en tu dolor de cabeza.",
+    "💳 Si tienes problemas de compras compulsivas, evita las tarjetas de crédito.",
+    "💰 De cafecito en cafecito, se nos va el dinerito.",
+    "💰 Carga contigo siempre una fruta, agua y un termo de café, tu bolsillo te lo agradecerá.",
+    "🔍 La información disuelve la emoción (conoce tus ingresos y gastos).",
+    
 ]
 
 # Botón para obtener una galletita
@@ -54,4 +60,4 @@ st.markdown("---")
 
 st.title("3ra. Emisión de las Jornadas Financieras en la UNRC")
 
-st.caption("Licenciatura en COntaduría y Finanzas | Univeridad NacionalRosario Castellanos")
+st.caption("Licenciatura en Contaduría y Finanzas | Univeridad NacionalRosario Castellanos")
