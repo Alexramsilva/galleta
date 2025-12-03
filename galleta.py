@@ -46,6 +46,7 @@ mensajes = [
     "💰 De cafecito en cafecito, se nos va el dinerito.",
     "💰 Carga contigo siempre una fruta, agua y un termo de café, tu bolsillo te lo agradecerá.",
     "🔍 La información disuelve la emoción (conoce tus ingresos y gastos).",
+    "📊 Cuando inviertes en la Bolsa, la paciencia es mejor que la inteligencia.",
     
 ]
 
