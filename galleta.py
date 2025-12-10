@@ -47,6 +47,8 @@ mensajes = [
     "💰 Carga contigo siempre una fruta, agua y un termo de café, tu bolsillo te lo agradecerá.",
     "🔍 La información disuelve la emoción (conoce tus ingresos y gastos).",
     "📊 Cuando inviertes en la Bolsa, la paciencia es mejor que la inteligencia.",
+    "📊 Cuida tu dinero: nuestro cerebro no trata al dinero como esfuerzo, sino como emoción y alivio inmediato.",
+    "📊 Cuida tu dinero: el gasto regula emociones (reduce estrés, conpensa cansancio y genera recompensa.",
     
 ]
 
@@ -61,4 +63,4 @@ st.markdown("---")
 
 st.title("3ra. Emisión de las Jornadas Financieras en la UNRC")
 
-st.caption("Licenciatura en Contaduría y Finanzas | Univeridad NacionalRosario Castellanos")
+st.caption("Licenciatura en Contaduría y Finanzas | Univeridad Nacional Rosario Castellanos")
